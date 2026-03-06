@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b7892cbb-74b2-4dc7-8950-e02e70bf0e51" />Como executar o projeto
+Como executar o projeto
 
 1 - Instalar dependências:
 
@@ -21,4 +21,3 @@ numero1 numero2 operacao
 
 resultado 200
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/67920ab6-c72b-4d92-96bf-de02459b1261" />
